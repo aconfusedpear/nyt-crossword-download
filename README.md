@@ -1,3 +1,7 @@
+This script has been modified to support downloading multiple nyt crosswords. 
+Defaults to starting on Nov 21, 1993 (the first archived copy available on the nyt site) and ends on today's date.
+Supports parallel downloads and defaults to 10 threads.
+
 # NYT Crossword Downloader
 
 This tool supports downloading (and automatically printing) the NYT crossword
